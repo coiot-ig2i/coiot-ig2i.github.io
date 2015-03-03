@@ -12,8 +12,10 @@
 	$(window).scroll(function() {
 		if ($(".navbar").offset().top > 50) {
 			$(".navbar-fixed-top").addClass("top-nav-collapse");
+			 $( "#logo" ).animate( {width: "45px",height: "45px"},{queue:false},50);
 		} else {
 			$(".navbar-fixed-top").removeClass("top-nav-collapse");
+			$( "#logo" ).animate( {width: "200px",height: "200px"},{queue:false},100);
 		}
 	});
 

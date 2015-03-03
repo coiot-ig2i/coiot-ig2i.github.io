@@ -241,10 +241,13 @@ a:focus {
 }
 #logo
 {
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
 }
 
+.logo_container{
+    max-width: 20%;
+}
 /* misc */
 hr {
   margin-top: 10px;
@@ -314,7 +317,7 @@ hr {
 }
 
 #intro.intro {
-	padding:20% 0 0 0;
+	padding:215px 0 0 0;
 }
 
 .intro .slogan {
