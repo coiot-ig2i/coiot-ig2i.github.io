@@ -2,4 +2,4 @@
 site du groupe CoIoT
 theme inspired by squadfree
 
-THIS IS PRODUCTION REPO !!!
+THIS IS DEV REPO.
