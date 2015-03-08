@@ -323,13 +323,13 @@ hr {
 	background: url(../img/bg6.jpg) no-repeat top center;
 }
 
-#intro.intro_large {
+.intro.intro_large {
 	padding:41vw 0 0 0;
 }
-#intro.intro_medium {
+.intro.intro_medium {
   padding:50vw 0 0 0;
 }
-#intro.intro_small {
+.intro.intro_small {
   padding:60vw 0 0 0;
 }
 
