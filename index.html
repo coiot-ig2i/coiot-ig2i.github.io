@@ -7,7 +7,7 @@
 	<meta name="description" content="">
 	<meta name="author" content="">
 
-	<title>CoIoT - Coordination for the Internet of Things</title>
+	<title>CoioT - Coordination for the Internet of Things</title>
 
 	<!-- Bootstrap Core CSS -->
 	<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
@@ -34,8 +34,9 @@
                     <i class="fa fa-bars"></i>
                 </button>
                 <div class="logo_container" >
-                <a class="navbar-brand" href="index.html">
-                	<img  id="logo"  src="img/logo/logo_head.PNG" alt="logo CoIot">
+                <a class="navbar-brand" style="width:100%;height:100%;" href="index.html">
+                	<img  class="hidden" id="logo_head"  src="img/logo/logo_head.PNG" alt="logo CoIot">
+                	<img  id="logo_total"  src="img/logo/logo_total.PNG" alt="logo CoIot">
                 </a>
                 </div>
             </div>
@@ -45,7 +46,7 @@
 			<div class="collapse navbar-collapse navbar-right navbar-main-collapse">
 				<ul class="nav navbar-nav">
 					<li class="active"><a href="#intro">Accueil</a></li>
-					<li><a href="#service">Les Services</a></li>
+					<li><a href="#service">Nos Services</a></li>
 					<li><a href="#team">L'équipe</a></li>
 					<li><a href="#contact">Contactez-nous !</a></li>
 				</ul>
@@ -57,10 +58,33 @@
 
 	<!-- Section: intro -->
 
-	<section id="intro" class="intro">
+	<section id="intro" class="intro intro_small visible-xs">
 
 		<div class="slogan">
-			<h2>Voici <span class="text_color">CoIoT</span> </h2>
+			<h4>Notre Objectif est de rendre l'internet des objets, plus communicant, plus coopérant, plus intelligent.</h4>
+		</div>
+		<div class="page-scroll">
+			<a href="#service" class="btn btn-circle">
+				<i class="fa fa-angle-double-down animated"></i>
+			</a>
+		</div>
+	</section>
+
+	<section id="intro" class="intro intro_medium visible-sm">
+
+		<div class="slogan">
+			<h4>Notre Objectif est de rendre l'internet des objets, plus communicant, plus coopérant, plus intelligent.</h4>
+		</div>
+		<div class="page-scroll">
+			<a href="#service" class="btn btn-circle">
+				<i class="fa fa-angle-double-down animated"></i>
+			</a>
+		</div>
+	</section>
+
+	<section id="intro" class="intro intro_large hidden-xs hidden-sm">
+
+		<div class="slogan">
 			<h4>Notre Objectif est de rendre l'internet des objets, plus communicant, plus coopérant, plus intelligent.</h4>
 		</div>
 		<div class="page-scroll">
@@ -80,7 +104,7 @@
 					<div class="col-lg-8 col-lg-offset-2">
 						<div class="wow bounceInDown" data-wow-delay="0.4s">
 							<div class="section-heading">
-								<h2>Our Services</h2>
+								<h2>Nos Services</h2>
 								<i class="fa fa-2x fa-angle-down"></i>
 
 							</div>
@@ -284,7 +308,7 @@
 					<div class="col-lg-8 col-lg-offset-2">
 						<div class="wow bounceInDown" data-wow-delay="0.4s">
 							<div class="section-heading">
-								<h2>Get in touch</h2>
+								<h2>Contactez Nous !</h2>
 								<i class="fa fa-2x fa-angle-down"></i>
 
 							</div>
@@ -308,25 +332,25 @@
 								<div class="col-md-6">
 									<div class="form-group">
 										<label for="name">
-											Name</label>
-											<input type="text" class="form-control" id="name" placeholder="Enter name" required="required" />
+											Nom</label>
+											<input type="text" class="form-control" id="name" placeholder="Entrez votre nom" required="required" />
 										</div>
 										<div class="form-group">
 											<label for="email">
-												Email Address</label>
+												Adresse e-mail</label>
 												<div class="input-group">
 													<span class="input-group-addon"><span class="glyphicon glyphicon-envelope"></span>
 												</span>
-												<input type="email" class="form-control" id="email" placeholder="Enter email" required="required" /></div>
+												<input type="email" class="form-control" id="email" placeholder="Entrez votre adresse email" required="required" /></div>
 											</div>
 											<div class="form-group">
 												<label for="subject">
-													Subject</label>
+													Sujet</label>
 													<select id="subject" name="subject" class="form-control" required="required">
-														<option value="na" selected="">Choose One:</option>
-														<option value="service">General Customer Service</option>
+														<option value="na" selected="">Choisir:</option>
+														<option value="question">Demande de renseignements complémentaires</option>
 														<option value="suggestions">Suggestions</option>
-														<option value="product">Product Support</option>
+														<option value="product">Votre projet m'intéresse !</option>
 													</select>
 												</div>
 											</div>
@@ -340,7 +364,7 @@
 												</div>
 												<div class="col-md-12">
 													<button type="submit" class="btn btn-skin pull-right" id="btnContactUs">
-														Send Message</button>
+														Envoyer le message</button>
 													</div>
 												</div>
 											</form>
@@ -349,29 +373,27 @@
 
 									<div class="col-lg-4">
 										<div class="widget-contact">
-											<h5>Main Office</h5>
+											<h5>Adresse postale</h5>
 
 											<address>
-												<strong>Squas Design, Inc.</strong><br>
-												Tower 795 Folsom Ave, Beautiful Suite 600<br>
-												San Francisco, CA 94107<br>
-												<abbr title="Phone">P:</abbr> (123) 456-7890
+												<strong>CoioT - PRP5</strong><br>
+												13 rue Jean Souvraz<br>
+												62300 LENS, France<br>
+												<abbr title="Téléphone"><span class="glyphicon glyphicon-phone"></span></abbr> non-communiqué
 											</address>
 
 											<address>
 												<strong>Email</strong><br>
-												<a href="mailto:#">email.name@example.com</a>
+												<a href="mailto:#">coiot@ig2i.fr</a>
 											</address>	
 											<address>
-												<strong>We're on social networks</strong><br>
+												<strong>Retrouvez nous sur les réseaux sociaux !</strong><br>
 												<ul class="company-social">
 													<li class="social-facebook"><a href="#" target="_blank"><i class="fa fa-facebook"></i></a></li>
 													<li class="social-twitter"><a href="#" target="_blank"><i class="fa fa-twitter"></i></a></li>
-													<li class="social-dribble"><a href="#" target="_blank"><i class="fa fa-dribbble"></i></a></li>
 													<li class="social-google"><a href="#" target="_blank"><i class="fa fa-google-plus"></i></a></li>
 												</ul>	
 											</address>					
-
 										</div>	
 									</div>
 								</div>	
@@ -391,7 +413,7 @@
 												</a>
 											</div>
 										</div>
-										<p>&copy;Copyright 2015 - CoIoT. All rights reserved.</p>
+										<p>&copy;Copyright 2015 - CoioT. All rights reserved.</p>
 									</div>
 								</div>	
 							</div>
