@@ -239,15 +239,22 @@ a:focus {
   box-shadow: 10px 0px #39CCCC, 10px 0px #01FF70;
   animation: shadowSpin 1s ease-in-out infinite;
 }
-#logo
+#logo_head
 {
-  width: 200px;
-  height: 200px;
+  width: 45px;
+  height: 45px;
+  margin-top: -100px;
+}
+
+#logo_total
+{
+  height: 38vw;
 }
 
 .logo_container{
     max-width: 20%;
-}
+    position: absolute;
+  }
 /* misc */
 hr {
   margin-top: 10px;
@@ -313,16 +320,26 @@ hr {
 	width:100%;
 	position:relative;
 	
-	background: url(../img/bg1.jpg) no-repeat top center;
+	background: url(../img/bg6.jpg) no-repeat top center;
 }
 
-#intro.intro {
-	padding:215px 0 0 0;
+#intro.intro_large {
+	padding:41vw 0 0 0;
+}
+#intro.intro_medium {
+  padding:50vw 0 0 0;
+}
+#intro.intro_small {
+  padding:60vw 0 0 0;
 }
 
 .intro .slogan {
 	text-align: center;
 
+}
+
+.logo_container{
+  margin-top: 60px;
 }
 
 .intro .page-scroll {
