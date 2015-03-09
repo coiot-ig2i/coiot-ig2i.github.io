@@ -777,6 +777,9 @@ Parallax
 
 
 }
+.padding-top{
+  padding-top:20px;
+}
 @media (max-width:768px) {
 	
 	.team.boxed-grey {
