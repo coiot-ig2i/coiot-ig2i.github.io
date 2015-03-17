@@ -381,7 +381,7 @@ hr {
 ============================ */
 
 .boxed-grey {
-	background: #f9f9f9;
+	background: #ededed;
 	padding: 20px;
 }
 
@@ -396,7 +396,7 @@ hr {
 .avatar {
 	margin-bottom: 20px;
 }
-
+bounceInUp
 .team-social {
 	margin-left: 0;
 	padding-left: 0;
@@ -776,6 +776,9 @@ Parallax
     }
 
 
+}
+.padding-top{
+  padding-top:20px;
 }
 @media (max-width:768px) {
 	
