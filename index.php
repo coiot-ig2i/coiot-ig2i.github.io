@@ -120,7 +120,7 @@
 				<div class="col-sm-10 col-sm-offset-1">
 					<div>
 						<p>
-							L’internet des objets est au centre de notre domaine d’activité. Nous avons à coeur de développer la <strong>communication</strong> entre appareils connectés. Repousser les limites de l’interconnexion est notre <strong>ambition</strong>. Afin de nous dépasser et de parvenir à vous apporter un rendu de qualité, nous aspirons à sans cesse faire preuve d’<strong>innovation</strong>.
+							L’internet des objets est au centre de notre domaine d’activité. Nous avons à coeur de développer la <strong>communication</strong> entre appareils connectés. Repousser les limites de l’interconnexion est notre <strong>ambition</strong>. Afin de nous dépasser et de parvenir à vous apporter un rendu de qualité, nous aspirons sans cesse à faire preuve d’<strong>innovation</strong>.
 						</p>
 					</div>
 				</div>
@@ -128,17 +128,17 @@
 			<br/>
 			<div class="row">
 				<div class="col-xs-12 col-sm-8 col-md-7 col-lg-7" style="padding: 10px;">
-					<img src="img/logo/logo_ig2i.png" height="120px">
+					<img src="img/logo/logo_ig2i.png" style="max-width: 80%;max-height: 120px;">
 				</div>
 				<div class=" col-xs-12 col-sm-4 col-md-5 col-lg-5" style="padding: 10px;">
-					<img src="img/logo/logo_eclille.png" height="120px">
+					<img src="img/logo/logo_eclille.png" style="max-width: 80%;max-height: 120px;">
 				</div>
 			</div>
 			<br/>
 			<div class="row">
 				<div class="col-sm-10 col-sm-offset-1">
 					<p>
-						Notre équipe est composé d'<strong>élèves ingénieurs</strong> issue de l'IG2I, département de l'école Centrale Lille. Fort d'une <strong>expérience professionnelle et internationale</strong>, nous souhaitons affirmer nos diverses compétences à travers le projet CoioT. Ce projet fait partie intégrante de notre cursus. Nous recherchons des <strong>entreprises motivées</strong> et prête à s'investir à nos côtés pour apporter du sens à l'Internet des objets.
+						Notre équipe est composé d'<strong>élèves ingénieurs</strong> issue de l'IG2I, département de l'école Centrale Lille. Forts d'une <strong>expérience professionnelle et internationale</strong>, nous souhaitons affirmer nos diverses compétences à travers le projet CoioT. Ce projet fait partie intégrante de notre cursus. Nous recherchons des <strong>entreprises motivées</strong> et prêtes à s'investir à nos côtés pour apporter du sens à l'Internet des objets.
 					</p>
 				</div>
 			</div>
@@ -188,7 +188,7 @@
 							</div>
 							<div class="service-desc">
 								<h5>Domotique</h5>
-								<p>Les solutions domotiques proposées aujourd'hui à l'échelle internationale sont basées sur des solutions de communication propriétaires ; nous vous proposons de bâtir une étude autour des communications orienté vers votre matériel, votre équipement et pour répondre à votre problématique.</p>
+								<p>Les solutions domotiques proposées aujourd'hui à l'échelle internationale sont basées sur des solutions de communication propriétaires ; nous vous proposons de bâtir une étude autour des communications orientée vers votre matériel, votre équipement et pour répondre à votre problématique.</p>
 							</div>
 						</div>
 					</div>
@@ -215,7 +215,7 @@
 							</div>
 							<div class="service-desc">
 								<h5>Internet of Things</h5>
-								<p>De plus en plus d'objets accompagnant votre quotidien sont ou seront connectés à l'Internet dans un futur proche. Pour autant, aucune structure de communication et d'interaction n'a été défini jusqu'aujourd'hui. L'internet des objets ressemble plus à un capharnaüm qu'à un réseau bien structuré et intelligent : nous vous proposons de collaborer avec vos équipes pour mener une étude répondant à cette problématique.</p>
+								<p>De plus en plus d'objets accompagnant votre quotidien sont ou seront connectés à l'Internet dans un futur proche. Pour autant, aucune structure de communication et d'interaction n'a été définie jusqu'à aujourd'hui. L'internet des objets ressemble plus à un capharnaüm qu'à un réseau bien structuré et intelligent : nous vous proposons de collaborer avec vos équipes pour mener une étude répondant à cette problématique.</p>
 							</div>
 						</div>
 					</div>
@@ -259,7 +259,7 @@
 								<div class="avatar">
 									<img src="img/team/11.jpg" alt="" class="img-responsive img-circle" />
 								</div>
-								<div><p>Passionné de robotique, spécialisé en fabrication digitale et auto-entrepreneur</p></div>
+								<div><p>Passionné de robotique, spécialisé en fabrication digitale et auto-entrepreneur.</p></div>
 							</div>
 						</div>
 					</div>
@@ -273,7 +273,7 @@
 								<div class="avatar">
 									<img src="img/team/21.jpg" alt="" class="img-responsive img-circle" />
 								</div>
-								<div><p>Osons,le progrès est a ce prix<br/><br/><br/></p></div>
+								<div><p>Osons,le progrès est a ce prix. La méthodologie en est le fondement. </p></div>
 							</div>
 						</div>
 					</div>
@@ -287,7 +287,7 @@
 								<div class="avatar">
 									<img src="img/team/31.jpg" alt="" class="img-responsive img-circle" />
 								</div>
-								<div><p>Tout problème a une solution<br/><br/><br/></p></div>
+								<div><p>Tout problème a une solution. Management et technique sont mes maitres mots.</p></div>
 							</div>
 						</div>
 					</div>
@@ -333,7 +333,7 @@
 								<div class="avatar">
 									<img src="img/team/61.jpg" alt="" class="img-responsive img-circle" />
 								</div>
-								<div><p>Formaï, Touche à un membre de ma clique et tu verra qu'on est pas tout seul !</p></div>
+								<div><p>Fervent d'électronique et de robotique. Naturellement responsable technique.</p></div>
 							</div>
 						</div>
 					</div>
@@ -348,7 +348,7 @@
 								<div class="avatar">
 									<img src="img/team/7.jpg" alt="" class="img-responsive img-circle" />
 								</div>
-								<div><p>Meilleur Joueur, Moi j'ai déja prévu de redoublé ma troisième année. </p></div>
+								<div><p>Intéréssé par les réseaux informatiques. La perséverence est la clé du succès. </p></div>
 							</div>
 						</div>
 					</div>
@@ -384,12 +384,44 @@
 			<div class="row">
 				<div class="col-lg-8">
 					<div class="boxed-grey">
-						<form id="contact-form">
+						<form id="contact-form" method="post">
+						<?php
+						if(isset($_POST) && isset($_POST['name']) && isset($_POST['email']) && isset($_POST['message'])){
+							if(!empty($_POST['name']) && !empty($_POST['email']) && !empty($_POST['message'])){
+								$destinataire = "jimmy.lucidarme@ig2i.fr";
+								$sujet = $_POST['subject'];
+								if($sujet == "question" ){
+									$sujet="[from CoioT's website] Demande de Renseignements Complémentaires";
+								}else if($sujet == "suggestions"){
+									$sujet="[from CoioT's website] Suggestions";
+								}else if($sujet == "product"){
+									$sujet="[from CoioT's website] Idée de projet";
+								}else {
+									$sujet="[from CoioT's website] No subject (it could be a SPAM)";
+								}
+								$message = "Nom : ".$_POST['name']."\r\n".
+								"Adresse email : ".$_POST['email']."\r\n".
+								"Message : ".$_POST['message']."\r\n";
+
+								$entete = 'From: '.$_POST['email']."\r\n".
+						        	'Reply-To: '.$_POST['email']."\r\n".
+								'X-Mailer: PHP/'.phpversion();
+								if(eregi("\r",$_POST['email']) || eregi("\n",$_POST['email'])) {
+									die("Why ?? :(");
+								}
+								if (mail($destinataire,$sujet,$message,$entete)){
+									echo '<div>Message envoyé</div>';
+								} else {
+						 			echo "<div>Une erreur est survenue lors de l'envoi du formulaire par email</div>";
+								}
+							}
+						}
+						?>
 							<div class="row">
 								<div class="col-md-6">
 									<div class="form-group">
 										<label for="name">Nom</label>
-										<input type="text" class="form-control" id="name" placeholder="Entrez votre nom" required="required" />
+										<input type="text" class="form-control" id="name" name="name" placeholder="Entrez votre nom" required="required" />
 									</div>
 									<div class="form-group">
 										<label for="email"> Adresse e-mail</label>
@@ -397,7 +429,7 @@
 											<span class="input-group-addon">
 												<span class="glyphicon glyphicon-envelope"></span>
 											</span>
-											<input type="email" class="form-control" id="email" placeholder="Entrez votre adresse email" required="required" />
+											<input type="email" class="form-control" id="email"  name="email" placeholder="Entrez votre adresse email" required="required" />
 										</div>
 									</div>
 									<div class="form-group">
