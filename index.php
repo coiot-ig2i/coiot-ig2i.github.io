@@ -348,7 +348,7 @@
 								<div class="avatar">
 									<img src="img/team/7.jpg" alt="" class="img-responsive img-circle" />
 								</div>
-								<div><p>Intéréssé par les réseaux informatiques. La perséverence est la clé du succès. </p></div>
+								<div><p>Intéréssé par les réseaux informatiques. La perséverance est la clé du succès. </p></div>
 							</div>
 						</div>
 					</div>
