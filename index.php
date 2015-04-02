@@ -120,7 +120,7 @@
 				<div class="col-sm-10 col-sm-offset-1">
 					<div>
 						<p>
-							L’internet des objets est au centre de notre domaine d’activité. Nous avons à coeur de développer la <strong>communication</strong> entre appareils connectés. Repousser les limites de l’interconnexion est notre <strong>ambition</strong>. Afin de nous dépasser et de parvenir à vous apporter un rendu de qualité, nous aspirons sans cesse à faire preuve d’<strong>innovation</strong>.
+							L'équipe CoioT est composée d'<strong>élèves ingénieurs</strong> issus de l'IG2I, département de l'école Centrale Lille. Forts d'une <strong>expérience professionnelle et internationale</strong>, nous souhaitons affirmer nos diverses compétences à travers l’étude que nous voudrions réaliser avec vous ; ce projet fait partie intégrante de notre cursus. Nous recherchons des <strong>entreprises motivées</strong> et prêtes à s'investir à nos côtés pour apporter du sens à l'Internet des objets.
 						</p>
 					</div>
 				</div>
@@ -138,7 +138,8 @@
 			<div class="row">
 				<div class="col-sm-10 col-sm-offset-1">
 					<p>
-						Notre équipe est composé d'<strong>élèves ingénieurs</strong> issue de l'IG2I, département de l'école Centrale Lille. Forts d'une <strong>expérience professionnelle et internationale</strong>, nous souhaitons affirmer nos diverses compétences à travers le projet CoioT. Ce projet fait partie intégrante de notre cursus. Nous recherchons des <strong>entreprises motivées</strong> et prêtes à s'investir à nos côtés pour apporter du sens à l'Internet des objets.
+						Nous avons à cœur de développer la <strong>communication</strong> entre appareils connectés. Repousser les limites de l’interconnexion est notre <strong>ambition</strong>. C'est pourquoi nous plaçons l’internet des objets au centre de notre domaine d’activité. Afin de nous dépasser et de parvenir à vous apporter un rendu de qualité, nous aspirons sans cesse à faire preuve d’<strong>innovation</strong>.
+
 					</p>
 				</div>
 			</div>
