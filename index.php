@@ -61,7 +61,7 @@
 	<div id="intro"/>
 	<section class="intro intro_small visible-xs">
 		<div class="slogan">
-			<h4>NOTRE OBJECTIF EST DE RENDRE L'INTERNET DES OBJETS PLUS COMMUNICANT, PLUS INTELLIGENT.</h4>
+			<h4>NOTRE OBJECTIF EST DE RENDRE L'INTERNET DES OBJETS PLUS COMMUNIQUANT, PLUS INTELLIGENT.</h4>
 		</div>
 		<div class="page-scroll">
 			<a href="#about" class="btn btn-circle">
@@ -72,7 +72,7 @@
 
 	<section class="intro intro_medium visible-sm">
 		<div class="slogan">
-			<h4>NOTRE OBJECTIF EST DE RENDRE L'INTERNET DES OBJETS PLUS COMMUNICANT, PLUS INTELLIGENT.</h4>
+			<h4>NOTRE OBJECTIF EST DE RENDRE L'INTERNET DES OBJETS PLUS COMMUNIQUANT, PLUS INTELLIGENT.</h4>
 		</div>
 		<div class="page-scroll">
 			<a href="#about" class="btn btn-circle">
@@ -83,7 +83,7 @@
 
 	<section class="intro intro_large hidden-xs hidden-sm">
 		<div class="slogan">
-			<h4>NOTRE OBJECTIF EST DE RENDRE L'INTERNET DES OBJETS PLUS COMMUNICANT, PLUS INTELLIGENT.</h4>
+			<h4>NOTRE OBJECTIF EST DE RENDRE L'INTERNET DES OBJETS PLUS COMMUNIQUANT, PLUS INTELLIGENT.</h4>
 		</div>
 		<div class="page-scroll">
 			<a href="#about" class="btn btn-circle">
