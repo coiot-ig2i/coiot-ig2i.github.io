@@ -8,16 +8,16 @@
 	<meta name="author" content="">
 
 	<title>CoioT - Coordination for the Internet of Things</title>
-
-	<!-- Bootstrap Core CSS -->
+<!--
 	<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
-
-	<!-- Fonts -->
 	<link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 	<link href="css/animate.css" rel="stylesheet" />
-	<!-- Squad theme CSS -->
 	<link href="css/style.css" rel="stylesheet">
 	<link href="color/default.css" rel="stylesheet">
+
+-->
+	<link href="css/all.min.css" rel="stylesheet">
+	<link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 
 </head>
 
@@ -34,7 +34,7 @@
 					<i class="fa fa-bars"></i>
 				</button>
 				<div class="logo_container" >
-					<a class="navbar-brand" style="width:100%;height:100%;" href="index.html">
+					<a class="navbar-brand" style="width:100%;height:100%;" href="index.php">
 						<img  class="hidden" id="logo_head"  src="img/logo/logo_head.PNG" alt="logo CoIot">
 						<img  id="logo_total"  src="img/logo/logo_total.PNG" alt="logo CoIot">
 					</a>
@@ -61,7 +61,7 @@
 	<div id="intro"/>
 	<section class="intro intro_small visible-xs">
 		<div class="slogan">
-			<h4>Notre objectif est de développer la communication entre objets connectés.</h4>
+			<h4>NOTRE OBJECTIF EST DE RENDRE L'INTERNET DES OBJETS PLUS COMMUNICANT, PLUS INTELLIGENT.</h4>
 		</div>
 		<div class="page-scroll">
 			<a href="#about" class="btn btn-circle">
@@ -72,7 +72,7 @@
 
 	<section class="intro intro_medium visible-sm">
 		<div class="slogan">
-			<h4>Notre objectif est de développer la communication entre objets connectés.</h4>
+			<h4>NOTRE OBJECTIF EST DE RENDRE L'INTERNET DES OBJETS PLUS COMMUNICANT, PLUS INTELLIGENT.</h4>
 		</div>
 		<div class="page-scroll">
 			<a href="#about" class="btn btn-circle">
@@ -83,7 +83,7 @@
 
 	<section class="intro intro_large hidden-xs hidden-sm">
 		<div class="slogan">
-			<h4>Notre objectif est de développer la communication entre objets connectés.</h4>
+			<h4>NOTRE OBJECTIF EST DE RENDRE L'INTERNET DES OBJETS PLUS COMMUNICANT, PLUS INTELLIGENT.</h4>
 		</div>
 		<div class="page-scroll">
 			<a href="#about" class="btn btn-circle">
@@ -348,7 +348,7 @@
 								<div class="avatar">
 									<img src="img/team/7.jpg" alt="" class="img-responsive img-circle" />
 								</div>
-								<div><p>Intéréssé par les réseaux informatiques. La perséverance est la clé du succès. </p></div>
+								<div><p>Intéressé par les réseaux informatiques. La persévérance est la clé du succès. </p></div>
 							</div>
 						</div>
 					</div>
@@ -388,7 +388,7 @@
 						<?php
 						if(isset($_POST) && isset($_POST['name']) && isset($_POST['email']) && isset($_POST['message'])){
 							if(!empty($_POST['name']) && !empty($_POST['email']) && !empty($_POST['message'])){
-								$destinataire = "jimmy.lucidarme@ig2i.fr";
+								$destinataire = "coiot@ig2i.fr";
 								$sujet = $_POST['subject'];
 								if($sujet == "question" ){
 									$sujet="[from CoioT's website] Demande de Renseignements Complémentaires";
@@ -506,15 +506,16 @@
 		</div>
 	</footer>
 
-	<!-- Core JavaScript Files -->
+	<!--
 	<script src="js/jquery.min.js"></script>
 	<script src="js/bootstrap.min.js"></script>
 	<script src="js/jquery.easing.min.js"></script>	
 	<script src="js/jquery.scrollTo.js"></script>
 	<script src="js/wow.min.js"></script>
-	<!-- Custom Theme JavaScript -->
-	<script src="js/custom.js"></script>
 
+	<script src="js/custom.js"></script>
+ -->
+  <script src="js/all.min.js"></script>
 </body>
 
 </html>
